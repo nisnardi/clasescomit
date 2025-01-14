@@ -2,10 +2,6 @@
 
 Código que usamos en nuestras clases de ComIT
 
-# Mas Cambios 2
+# Mas Cambios
 
-# Mas Cambios 2
-
-# Mas Cambios 2
-
-# Mas Cambios 2
+Mas Código que usamos en nuestras clases de ComIT
