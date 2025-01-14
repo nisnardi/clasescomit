@@ -2,10 +2,14 @@
 
 Código que usamos en nuestras clases de ComIT
 
-# Mas Cambios
+# No Mas Cambios en este archivo
 
 Mas Código que usamos en nuestras clases de ComIT
 
-# Mas Cambios
+## Secundario
 
-Mas Código que usamos en nuestras clases de ComIT
+- Otro contenido
+
+```javascript
+const name = "Nico";
+```
