@@ -2,4 +2,4 @@
 
 Código que usamos en nuestras clases de ComIT
 
-# Clases ComIT 2
+# Mas Clases ComIT 2
